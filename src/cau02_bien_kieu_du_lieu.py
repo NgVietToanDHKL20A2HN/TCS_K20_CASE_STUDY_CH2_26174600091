@@ -1,0 +1,12 @@
+ma_phien="LAB026"
+ma_may="PC12"
+cong_suat=250.0
+thoi_gian=120
+dang_hoat_dong=True
+ghi_chu=None
+print(type(ma_phien))
+print(type(ma_may))
+print(type(cong_suat))
+print(type(thoi_gian))
+print(type(dang_hoat_dong))
+print(type(ghi_chu))
